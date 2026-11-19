@@ -1,0 +1,3 @@
+
+
+### New-Item -ItemType Directory -Force -Path ".agents","docs","issues","tutoriels","presentations","rapport","sprints"
